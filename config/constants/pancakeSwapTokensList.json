@@ -11,6 +11,14 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
     {
+      "name": "Charity Token",
+      "symbol": "CHRT",
+      "address": "0xDCDeCf197f57E6a5fDE2957e7305f533d622fbf1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095.png"
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
